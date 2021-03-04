@@ -23,8 +23,8 @@ Share this release:
 
 
 Be supportive of my dedication and work towards technology education and buy me a coffee
-[![Be supportive of my dedication and work towards technology education and buy me a coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png | width=100)](https://www.buymeacoffee.com/migueltomas)
 
 
 
+<img src="https://www.buymeacoffee.com/migueltomas" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.pngg" height="70" />
 
