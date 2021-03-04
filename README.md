@@ -26,5 +26,5 @@ Be supportive of my dedication and work towards technology education and buy me 
 
 
 
-<img src="https://www.buymeacoffee.com/migueltomas" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.pngg" height="70" />
+<img src="https://www.buymeacoffee.com/migueltomas" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="70" />
 
