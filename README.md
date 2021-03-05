@@ -1,4 +1,4 @@
-# FloatingActionButtonMenuDrag
+## FloatingActionButtonMenuDrag
  A Floating Action Button with Menu and Draggable 
 
 [![1.0](https://jitpack.io/v/aeonSolutions/FloatingActionButtonMenuDrag.svg)](https://jitpack.io/#aeonSolutions/FloatingActionButtonMenuDrag) [![](https://jitci.com/gh/aeonSolutions/FloatingActionButtonMenuDrag/svg)](https://jitci.com/gh/aeonSolutions/FloatingActionButtonMenuDrag)
@@ -6,11 +6,11 @@
 
 An implementation of [Floating Action Button](http://www.google.com/design/spec/components/buttons.html#buttons-floating-action-button) for Android with lots of features, such as move on touch and hold the menu fab.
 
-# Requirements
+### Requirements
 The library requires Android **API Level 21+**.
 
 
-# Features
+### Features
 - Moveveable on touch and hoold of the Menu button
 
 - Ripple effect on Android Lollipop devices
@@ -29,7 +29,7 @@ The library requires Android **API Level 21+**.
 - *Option to remove all buttons from the `FloatingActionMenu`*
 - *Option to set a label for the `FloatingActionMenu`'s button*
 
-# Usage
+### Usage
 Add it in your root build.gradle at the end of repositories:
 
 	allprojects {
@@ -178,8 +178,8 @@ this project is a functionality upgrade from the discontinued project below:
 [visit Clans on Github](https://github.com/Clans/FloatingActionButton) by Dmytro Tarianyk as base development,
 from previous project [android-floating-action-button](https://github.com/futuresimple/android-floating-action-button) library by Jerzy Chalupski as a base for development.
 
-# License
-Copyright 2021 Miguel Tomás under GPL licens
+### License
+Copyright 2021 Miguel Tomás under GPL license
 
 
 
