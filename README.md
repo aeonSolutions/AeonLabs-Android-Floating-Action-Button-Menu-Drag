@@ -18,6 +18,7 @@ Step 2. Add the dependency
 	}
 	
 Share this release:
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fjitpack.io%2F&ref_src=twsrc%5Etfw&text=Version%201.0%20of%20FloatingActionButtonMenuDrag%20is%20now%20available%20on%20&tw_p=tweetbutton&url=http%3A%2F%2Fjitpack.io%2F%23aeonSolutions%2FFloatingActionButtonMenuDrag%2F1.0)
 
 
 Be supportive of my dedication and work towards technology education and buy me a coffee
