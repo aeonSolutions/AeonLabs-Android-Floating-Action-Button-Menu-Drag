@@ -1,10 +1,7 @@
 # FloatingActionButtonMenuDrag
  A Floating Action Button with Menu and Draggable 
 
-[![1.0](https://jitpack.io/v/aeonSolutions/FloatingActionButtonMenuDrag.svg)]
-(https://jitpack.io/#aeonSolutions/FloatingActionButtonMenuDrag)
-
-[![](https://jitci.com/gh/aeonSolutions/FloatingActionButtonMenuDrag/svg)](https://jitci.com/gh/aeonSolutions/FloatingActionButtonMenuDrag)
+[![1.0](https://jitpack.io/v/aeonSolutions/FloatingActionButtonMenuDrag.svg)](https://jitpack.io/#aeonSolutions/FloatingActionButtonMenuDrag) [![](https://jitci.com/gh/aeonSolutions/FloatingActionButtonMenuDrag/svg)](https://jitci.com/gh/aeonSolutions/FloatingActionButtonMenuDrag)
 
 Add it in your root build.gradle at the end of repositories:
 
