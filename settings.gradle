@@ -1,1 +1,3 @@
-include ':Library'
+rootProject.name = "FloatingActionButtonMenuDrag"
+include ':app'
+include ':FloatingActionButtonMenuDrag'
