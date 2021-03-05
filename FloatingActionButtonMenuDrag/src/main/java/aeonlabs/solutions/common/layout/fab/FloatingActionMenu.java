@@ -507,17 +507,13 @@ public class FloatingActionMenu extends ViewGroup {
                                 break;
                             case MotionEvent.ACTION_UP:
                                 if (Math.abs(startX - event.getRawX()) < 10 && Math.abs(startY - event.getRawY()) < 10){
-                                    Toast.makeText(v.getContext(), "Clicked!", Toast.LENGTH_SHORT).show();
                                     toggle(mIsAnimated);
-
                                 }
                                 break;
                             default:
                                 return false;
                         }
                         return true;
-
-
                     }
                 });
             }
