@@ -1,4 +1,4 @@
-#Fri Mar 05 12:19:52 CET 2021
+#Fri Mar 05 17:36:36 CET 2021
 base.0=C\:\\Users\\Aeon\\Desktop\\AeonLabs\\Software\\CodeLibraries\\FabMenuLibrary\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

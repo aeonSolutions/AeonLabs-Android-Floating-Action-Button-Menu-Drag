@@ -3,7 +3,6 @@ package aeonlabs.solutions.common.layout.fab;
 import android.animation.AnimatorSet;
 import android.animation.ObjectAnimator;
 import android.animation.ValueAnimator;
-import android.app.Activity;
 import android.content.Context;
 import android.content.res.ColorStateList;
 import android.content.res.TypedArray;
@@ -13,10 +12,8 @@ import android.graphics.drawable.Drawable;
 import android.os.Handler;
 import android.text.TextUtils;
 import android.util.AttributeSet;
-import android.util.DisplayMetrics;
 import android.util.TypedValue;
 import android.view.ContextThemeWrapper;
-import android.view.GestureDetector;
 import android.view.MotionEvent;
 import android.view.View;
 import android.view.ViewGroup;
@@ -109,6 +106,8 @@ public class FloatingActionMenu extends ViewGroup {
     private String mMenuLabelText;
     private boolean mUsingMenuLabel;
 
+    private boolean isDragMenuDisabled;
+
     public interface OnMenuToggleListener {
         void onMenuToggle(boolean opened);
     }
@@ -192,6 +191,8 @@ public class FloatingActionMenu extends ViewGroup {
         mOpenInterpolator = new OvershootInterpolator();
         mCloseInterpolator = new AnticipateInterpolator();
         mLabelsContext = new ContextThemeWrapper(getContext(), mLabelsStyle);
+
+        isDragMenuDisabled= false;
 
         initBackgroundDimAnimation();
         createMenuButton();
@@ -496,7 +497,7 @@ public class FloatingActionMenu extends ViewGroup {
                                 lastAction = MotionEvent.ACTION_DOWN;
                                 break;
                             case MotionEvent.ACTION_MOVE:
-                                if (checkViewLimits(v,(int)(event.getRawX() + dX),(int)(event.getRawY() + dY))){
+                                if (!isDragMenuDisabled & (checkViewLimits(v,(int)(event.getRawX() + dX),(int)(event.getRawY() + dY)))){
                                     v.setY(event.getRawY() + dY);
                                     v.setX(event.getRawX() + dX);
 
@@ -917,6 +918,10 @@ public class FloatingActionMenu extends ViewGroup {
         mIsAnimated = animated;
         mOpenAnimatorSet.setDuration(animated ? ANIMATION_DURATION : 0);
         mCloseAnimatorSet.setDuration(animated ? ANIMATION_DURATION : 0);
+    }
+
+    public void setTouchDrag(boolean state){
+        isDragMenuDisabled= !state;
     }
 
     public boolean isAnimated() {
