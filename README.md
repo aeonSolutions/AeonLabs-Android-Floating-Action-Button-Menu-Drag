@@ -11,8 +11,7 @@ The library requires Android **API Level 21+**.
 
 
 ### Features
-- Moveveable on touch and hold of the Menu button
-
+- Option for Moveveable on touch and hold of the Menu button
 - Ripple effect on Android Lollipop devices
 - Option to set custom **normal**/**pressed**/**ripple** colors
 - Option to set custom shadow color and offsets
