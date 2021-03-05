@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">FloatingActionButtonMenuDrag</string>
+    <string name="app_name">PusblishLibrary</string>
+    <string name="action_settings">Settings</string>
 </resources>
