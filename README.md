@@ -32,7 +32,7 @@ The library requires Android **API Level 21+**.
 - *Option to set a label for the `FloatingActionMenu`'s button*
 
 ### Usage
-Add it in your root build.gradle at the end of repositories:
+Step 1. Add it in your root build.gradle at the end of repositories:
 
 	allprojects {
 		repositories {
