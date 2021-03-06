@@ -7,7 +7,7 @@
 An implementation of [Floating Action Button](http://www.google.com/design/spec/components/buttons.html#buttons-floating-action-button) for Android with lots of features, such as move on touch and hold the menu fab.
 You can view a demostration of the library working on YouTube: [click to view](https://youtu.be/KYduCAGDWYE)
 
-[![Github releases (by release)](https://img.shields.io/github/downloads/aeonSolutions/StrapDown.js/v1.1/total.svg)](https://GitHub.com/aeonSolutions/StrapDown.js/releases/)
+[![Github all releases](https://img.shields.io/github/downloads/aeonSolutions/StrapDown.js/total.svg)](https://GitHub.com/aeonSolutions/StrapDown.js/releases/)
 
 ### Requirements
 The library requires Android **API Level 21+**.
