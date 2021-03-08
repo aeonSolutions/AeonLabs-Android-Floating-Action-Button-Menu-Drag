@@ -2,7 +2,7 @@
  A Floating Action Button with Menu and Draggable 
 
 [![1.0](https://jitpack.io/v/aeonSolutions/FloatingActionButtonMenuDrag.svg)](https://jitpack.io/#aeonSolutions/FloatingActionButtonMenuDrag) [![](https://jitci.com/gh/aeonSolutions/FloatingActionButtonMenuDrag/svg)](https://jitci.com/gh/aeonSolutions/FloatingActionButtonMenuDrag)
-[[](https://views.whatilearened.today/views/github/aeonSolutions/FloatingActionButtonMenuDrag.svg)]
+[![](https://views.whatilearened.today/views/github/aeonSolutions/FloatingActionButtonMenuDrag.svg)]
 
 An implementation of [Floating Action Button](http://www.google.com/design/spec/components/buttons.html#buttons-floating-action-button) for Android with lots of features, such as move on touch and hold the menu fab.
 You can view a demostration of the library working on YouTube: [click to view](https://youtu.be/KYduCAGDWYE)
