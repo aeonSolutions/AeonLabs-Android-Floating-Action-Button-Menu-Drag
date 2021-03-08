@@ -3,6 +3,7 @@
 
 [![1.0](https://jitpack.io/v/aeonSolutions/FloatingActionButtonMenuDrag.svg)](https://jitpack.io/#aeonSolutions/FloatingActionButtonMenuDrag) [![](https://jitci.com/gh/aeonSolutions/FloatingActionButtonMenuDrag/svg)](https://jitci.com/gh/aeonSolutions/FloatingActionButtonMenuDrag)
 ![](https://views.whatilearened.today/views/github/aeonSolutions/FloatingActionButtonMenuDrag.svg)
+[![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/floatingactionbuttonmenudrag/badge/main)](https://www.codefactor.io/repository/github/aeonsolutions/floatingactionbuttonmenudrag/overview/main)
 
 An implementation of [Floating Action Button](http://www.google.com/design/spec/components/buttons.html#buttons-floating-action-button) for Android with lots of features, such as move on touch and hold the menu fab.
 You can view a demostration of the library working on YouTube: [click to view](https://youtu.be/KYduCAGDWYE)
@@ -10,7 +11,7 @@ You can view a demostration of the library working on YouTube: [click to view](h
 ![GitHub all releases](https://img.shields.io/github/downloads/aeonSolutions/FloatingActionButtonMenuDrag/total?style=for-the-badge)
 ![GitHub search hit counter](https://img.shields.io/github/search/aeonSolutions/FloatingActionButtonMenuDrag/Floating%20Action%20Button?style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/aeonSolutions/FloatingActionButtonMenuDrag?style=for-the-badge)
-[![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/floatingactionbuttonmenudrag/badge/main)](https://www.codefactor.io/repository/github/aeonsolutions/floatingactionbuttonmenudrag/overview/main)
+
 ### Requirements
 The library requires Android **API Level 21+**.
 
