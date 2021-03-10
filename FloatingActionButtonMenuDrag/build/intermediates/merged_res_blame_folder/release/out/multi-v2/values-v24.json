@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Aeon\\Desktop\\AeonLabs\\Software\\CodeLibraries\\FabMenuLibrary\\FloatingActionButtonMenuDrag\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v24\\values-v24.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Aeon\\.gradle\\caches\\transforms-2\\files-2.1\\7d3df964e6ff213cc2a5419943e3839e\\appcompat-1.2.0\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Aeon\\Desktop\\AeonLabs\\Software\\CodeLibraries\\FabMenuLibrary\\FloatingActionButtonMenuDrag\\build\\intermediates\\res\\merged\\release\\values-v24\\values-v24.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Aeon\\.gradle\\caches\\transforms-2\\files-2.1\\7d3df964e6ff213cc2a5419943e3839e\\appcompat-1.2.0\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                }
+            ]
+        }
+    ]
+}

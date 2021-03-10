@@ -1,0 +1,5 @@
+com/example/willy/pusblishlibrary/MainActivity.java
+ com.example.willy.pusblishlibrary.MainActivity
+ com.example.willy.pusblishlibrary.MainActivity$1
+com/example/willy/pusblishlibrary/BuildConfig.java
+ com.example.willy.pusblishlibrary.BuildConfig
