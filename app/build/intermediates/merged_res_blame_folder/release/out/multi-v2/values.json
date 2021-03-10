@@ -4,25 +4,6 @@
             "outputFile": "C:\\Users\\Aeon\\Desktop\\AeonLabs\\Software\\CodeLibraries\\FabMenuLibrary\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Aeon\\.gradle\\caches\\transforms-2\\files-2.1\\e2b62ddd6bdadf6e8ea5e45a9ca6240c\\appcompat-resources-1.2.0\\res\\values\\values.xml",
-                    "from": {
-                        "startLines": "2,29,36,47,74",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "55,1702,2087,2684,4317",
-                        "endLines": "28,35,46,73,78",
-                        "endColumns": "24,24,24,24,24",
-                        "endOffsets": "1697,2082,2679,4312,4582"
-                    },
-                    "to": {
-                        "startLines": "4976,5003,5010,7395,7422",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "328121,329768,330153,477907,479540",
-                        "endLines": "5002,5009,5020,7421,7426",
-                        "endColumns": "24,24,24,24,24",
-                        "endOffsets": "329763,330148,330745,479535,479805"
-                    }
-                },
-                {
                     "source": "C:\\Users\\Aeon\\.gradle\\caches\\transforms-2\\files-2.1\\6ad3ec50c05ef483bcc0347b6e103e62\\recyclerview-1.1.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
@@ -80,6 +61,25 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\Aeon\\.gradle\\caches\\transforms-2\\files-2.1\\e2b62ddd6bdadf6e8ea5e45a9ca6240c\\jetified-appcompat-resources-1.2.0\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,29,36,47,74",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,1702,2087,2684,4317",
+                        "endLines": "28,35,46,73,78",
+                        "endColumns": "24,24,24,24,24",
+                        "endOffsets": "1697,2082,2679,4312,4582"
+                    },
+                    "to": {
+                        "startLines": "4976,5003,5010,7395,7422",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "328121,329768,330153,477907,479540",
+                        "endLines": "5002,5009,5020,7421,7426",
+                        "endColumns": "24,24,24,24,24",
+                        "endOffsets": "329763,330148,330745,479535,479805"
+                    }
+                },
+                {
                     "source": "C:\\Users\\Aeon\\.gradle\\caches\\transforms-2\\files-2.1\\6b8404599ab057736822770cd0959215\\cardview-1.0.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,35,36,37,38,45,47,50,7",
@@ -113,6 +113,25 @@
                         "startOffsets": "60999,61052",
                         "endColumns": "52,52",
                         "endOffsets": "61047,61100"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Aeon\\.gradle\\caches\\transforms-2\\files-2.1\\9154368f0905be8b4aa78e9a9e658b57\\jetified-viewpager2-1.0.0\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "24",
+                        "endOffsets": "160"
+                    },
+                    "to": {
+                        "startLines": "8036",
+                        "startColumns": "4",
+                        "startOffsets": "514994",
+                        "endLines": "8038",
+                        "endColumns": "24",
+                        "endOffsets": "515099"
                     }
                 },
                 {
@@ -223,25 +242,6 @@
                         "endLines": "49,4848,6234,6323",
                         "endColumns": "60,12,24,24",
                         "endOffsets": "2492,320683,407489,412700"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Aeon\\.gradle\\caches\\transforms-2\\files-2.1\\9154368f0905be8b4aa78e9a9e658b57\\viewpager2-1.0.0\\res\\values\\values.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "4",
-                        "endColumns": "24",
-                        "endOffsets": "160"
-                    },
-                    "to": {
-                        "startLines": "8036",
-                        "startColumns": "4",
-                        "startOffsets": "514994",
-                        "endLines": "8038",
-                        "endColumns": "24",
-                        "endOffsets": "515099"
                     }
                 },
                 {

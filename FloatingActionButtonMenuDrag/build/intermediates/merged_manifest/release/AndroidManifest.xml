@@ -3,7 +3,7 @@
     package="aeonlabs.solutions.common.layout.fab" >
 
     <uses-sdk
-        android:minSdkVersion="15"
+        android:minSdkVersion="16"
         android:targetSdkVersion="30" />
 
     <application

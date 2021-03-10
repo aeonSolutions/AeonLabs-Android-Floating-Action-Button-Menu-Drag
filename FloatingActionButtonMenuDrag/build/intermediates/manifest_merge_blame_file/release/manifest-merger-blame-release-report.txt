@@ -3,7 +3,7 @@
 3    package="aeonlabs.solutions.common.layout.fab" >
 4
 5    <uses-sdk
-6        android:minSdkVersion="15"
+6        android:minSdkVersion="16"
 6-->C:\Users\Aeon\Desktop\AeonLabs\Software\CodeLibraries\FabMenuLibrary\FloatingActionButtonMenuDrag\src\main\AndroidManifest.xml
 7        android:targetSdkVersion="30" />
 7-->C:\Users\Aeon\Desktop\AeonLabs\Software\CodeLibraries\FabMenuLibrary\FloatingActionButtonMenuDrag\src\main\AndroidManifest.xml
