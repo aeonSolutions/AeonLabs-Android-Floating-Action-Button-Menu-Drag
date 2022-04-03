@@ -188,9 +188,12 @@ this project is a functionality upgrade from the discontinued project below:
 from previous project [android-floating-action-button](https://github.com/futuresimple/android-floating-action-button) library by Jerzy Chalupski as a base for development.
 
 ### License
-Copyright 2021 Miguel Tomás under GPL license
+2022 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 
+https://creativecommons.org/licenses/by-nc-sa/4.0/
 
+### Own a copy of this work
+if you like to own a copy of this work, you can buy it as a NFT or Ethereum. Contact me for more details at mtpsilva@gmail.com
 
 
 =====================================================================================
