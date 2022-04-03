@@ -35,7 +35,7 @@ The library requires Android **API Level 21+**.
 - *Option to set a label for the `FloatingActionMenu`'s button*
 
 ## Join the WhatsApp Group
-If you like this kind of projects and want to stay updated with the lastest research ideias and prototypes during the day and week, join the WhatsApp Group
+If you like this kind of projects and want to stay updated with the latest research ideas and prototypes during the day and week, join the WhatsApp Group
 [LDAD Lab & Prototyping](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg)
 
 ### Usage
