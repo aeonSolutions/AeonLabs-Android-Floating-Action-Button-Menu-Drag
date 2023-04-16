@@ -22,10 +22,6 @@ You can view a demostration of the library working on YouTube: [click to view](h
 
 <br>
 
-## Floating Action Button Menu Drag
- A Floating Action Button with Menu and Draggable 
-
-
 ### Requirements
 The library requires Android **API Level 21+**.
 
